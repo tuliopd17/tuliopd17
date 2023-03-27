@@ -9,10 +9,10 @@
 <div>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=github_dark&username=tuliopd17&count_private=true&langs_count=10&hide=makefile&exclude_repo=vim-mods"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliopd17&theme=material-palenight&layout=compact"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=tuliopd17&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=tuliopd17&theme=material-palenight&show_icons=true"
   />
 </div>
