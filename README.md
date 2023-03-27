@@ -1,6 +1,4 @@
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliopd17&theme=transparent&layout=compact" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tuliopd17&show_icons=true&theme=transparent" />
-</a>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliopd17&layout=compact&theme=transparent" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=tuliopd17&show_icons=true&theme=transparent" />
+</div>
