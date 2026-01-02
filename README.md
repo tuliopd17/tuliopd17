@@ -6,13 +6,3 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
 </p>
-<div>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliopd17&theme=material-palenight&layout=compact"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=tuliopd17&theme=material-palenight&show_icons=true"
-  />
-</div>
