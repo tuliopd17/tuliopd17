@@ -21,14 +21,3 @@ Bacharel em **Ciência da Computação** pela **UFPR**. Tenho foco no desenvolvi
 * **Linguagens:** Java, Python, SQL, Javascript.
 * **Frameworks:** Spring Boot (Data, Security, MVC), React.
 * **Infra & DB:** MySQL, PostgreSQL, ClickHouse, Docker, RabbitMQ/SQS/Kafka.
-
-### 🚀 Projetos Recentes
-* **Stock Control System:** Backend completo em Java Spring para gestão de estoque comercial.
-* **Data Pipeline:** Ingestão de grandes volumes de JSON para ClickHouse focado em performance.
-
-<hr />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuliopd17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliopd17&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" height="180em" />
-</div>
