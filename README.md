@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Túlio de Pádua Dutra</h1>
-  <p><b>Desenvolvedor Backend Java | Ciência da Computação (UFPR)</b></p>
+  <p><b>Desenvolvedor Full Stack (Java + React/Angular) | Ciência da Computação (UFPR)</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/tulio-dutra-6b84b4177/">
